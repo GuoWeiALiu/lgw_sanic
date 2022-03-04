@@ -5,10 +5,10 @@
 
 3 dongweiming My Blog Using Sanic 详见https://github.com/dongweiming/lyanna
 
-4 Sanic-For-Pythoneer   https://sanic-for-pythoneer.readthedocs.io/en/latest/#
+4 Sanic-For-Pythoneer   https://sanic-for-pythoneer.readthedocs.io/en/latest/
 
-                  源码 https://github.com/howie6879/Sanic-For-Pythoneer
+源码 https://github.com/howie6879/Sanic-For-Pythoneer
                   
-                  blog https://www.howie6879.cn/tags/sanic/
+blog https://www.howie6879.cn/tags/sanic/
                   
 5 sanic_frame_demo 框架demo 详见https://github.com/Rgcsh/sanic_frame_demo
