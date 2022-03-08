@@ -10,12 +10,13 @@
                   
 blog https://www.howie6879.cn/tags/sanic/
 
+阅读源码使用
+from sanic_0_1_2.src import Sanic
+from sanic_0_1_2.src.response import json
+
 4 howie  owllook - 在线小说搜索引擎 owllook  https://github.com/howie6879/owllook
 
 5 dongweiming My Blog Using Sanic 详见https://github.com/dongweiming/lyanna
 
 
-
-
-                  
 6 sanic_frame_demo 框架demo 详见https://github.com/Rgcsh/sanic_frame_demo
