@@ -19,4 +19,4 @@ from sanic_0_1_2.src.response import json
 5 dongweiming My Blog Using Sanic 详见https://github.com/dongweiming/lyanna
 
 
-6 sanic_frame_demo 框架demo 详见https://github.com/Rgcsh/sanic_frame_demo
+6 sanic_frame_demo 框架扩展插件redisdemo 详见https://github.com/Rgcsh/sanic_frame_demo
